@@ -16,7 +16,7 @@
             },
             "options": {
                 "env": {
-                    "PYTHONIOENCODING": "utf-8"
+                    "PYTHONIOENCODING": "UTF-8"
                 }
             },
             "group": {
